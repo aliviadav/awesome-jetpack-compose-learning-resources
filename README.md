@@ -594,6 +594,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 - [Jetpack Compose with Denis Buketa – Podcast S10 E13](https://www.raywenderlich.com/13267837-jetpack-compose-with-denis-buketa-podcast-s10-e13)
 
 - [Romain Guy – Podcast S09 E09](https://www.raywenderlich.com/4809247-romain-guy-podcast-s09-e09)
+- [Unit testing on android](https://blog.canopas.com/canopas-podcast-1-write-effective-unit-tests-in-android-9b8a0da34353)
 
 ## Twitter Threads
 
