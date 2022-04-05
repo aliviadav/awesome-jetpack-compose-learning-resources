@@ -161,6 +161,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Search jetpack compose articles on Dev](https://dev.to/t/jetpackcompose) - Collection of quality articles from Android Devs. Sort Jetpack Compose articles by Recency on Dev.to
 
+- [Search jetpack compose articles on Dev](https://dev.to/t/jetpackcompose) - Collection of quality articles from Android Devs. Sort Jetpack Compose articles by Recency on Dev.to
+
 - [Compose Academy](https://compose.academy/) - Snippets and guides for Jetpack Compose on the Android platform
 
 - [JetpackCompose.app](https://jetpackcompose.app/) - Learn more about using Jetpack Compose in Android. How does Jetpack Compose compare to the existing Android UI Toolkit?
